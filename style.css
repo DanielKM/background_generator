@@ -1,0 +1,17 @@
+body {
+	background: linear-gradient(to right, red, yellow);
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+	text-align: center
+}
+
+h1 {
+	text-align: center;
+	width: 100%;
+	color: black;
+}
+
+h2 {
+	text-align: center;
+}
